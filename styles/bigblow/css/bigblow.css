@@ -318,6 +318,13 @@ th
     color: white;
 }
 
+tbody {
+    border: 2px solid #2061A2;
+    border-left: none;
+    border-right: none;
+    border-collapse: separate;
+}
+
 caption {
     color: #8D8D84;
 }
